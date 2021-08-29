@@ -1,13 +1,15 @@
 {
-    "enable": {
-        "error": false,
-        "typeError": "",
-        "numRows": 2,
-        "messages": [
-            "Proceso ejecutado correctamente."
-        ],
-        "data": [
-            "[CORRECTO: Se desactivo el perfil correctamente]"
-        ]
+    "disable":{
+        "enable": {
+            "error": false,
+            "typeError": "",
+            "numRows": 2,
+            "messages": [
+                "Proceso ejecutado correctamente."
+            ],
+            "data": [
+                "[CORRECTO: Se desactivo el perfil correctamente]"
+            ]
+        }
     }
 }
